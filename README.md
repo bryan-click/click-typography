@@ -2,6 +2,10 @@
 
 Typography can help create clear hierarchies, organize information, and guide users through a product or experience. Our default typefaces are designed for legibility and can adapt to a variety of visual palettes.
 
+### Example
+
+![Example of Annotated Click Typography](/typography.png)
+
 ## Font size
 
 **Use a comfortable reading size for body text.** For most text, including body copy, use at least an effective size of 16px (`fontSizeBase`). Smaller and larger text can be used sparingly for special purposes (like headings, captions, citations, footnotes, data tables, or specialized UI).
@@ -26,10 +30,6 @@ Typography can help create clear hierarchies, organize information, and guide us
 | `Heading xxSmall`  | 16 pt |
 | `Heading Micro`    | 14 pt |
 | `Heading Overline` | 10 pt |
-
-### Example
-
-![Image Export of Typography](typography.png)
 
 ## Text alignment
 
