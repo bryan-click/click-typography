@@ -27,6 +27,10 @@ Typography can help create clear hierarchies, organize information, and guide us
 | `Heading Micro`    | 14 pt |
 | `Heading Overline` | 10 pt |
 
+### Example
+
+![Image Export of Typography](typography.png)
+
 ## Text alignment
 
 While right-aligned, centered, and justified text have their place, most products benefit from a consistent use of left-aligned text. Justified text, common in print, does not yet display well enough in a responsive medium to be considered a best practice for long form text.
