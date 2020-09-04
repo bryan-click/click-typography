@@ -9,7 +9,7 @@ Typography can help create clear hierarchies, organize information, and guide us
 - Use font sizes between `Text Small` and `Text Large` for most running text.
 - Sizes smaller than `Text Micro`, `Heading Micro` and `Heading Overline` should be used more sparingly — for shorter companion text or typographic 'eyebrows' such as captions, footnotes, photo credits, or specialized UI.
 
-#### **Options:**
+#### **Font size options:**
 
 | Name               | Value |
 | ------------------ | ----- |
@@ -31,7 +31,7 @@ Typography can help create clear hierarchies, organize information, and guide us
 
 While right-aligned, centered, and justified text have their place, most products benefit from a consistent use of left-aligned text. Justified text, common in print, does not yet display well enough in a responsive medium to be considered a best practice for long form text.
 
-#### **Options:**
+#### **Text alignment options:**
 
 | Name           | Value   |
 | -------------- | ------- |
@@ -46,7 +46,7 @@ Line height controls the vertical rhythm and density of a block of text. It is w
 
 **Longer texts require more line height.** Headings and other content elements no longer than a line or two can have a line height of 1 (`Line Height Heading`) and 1.2 (`Line Height Tight`) for intro and leads. Longer body and paragraph texts should have a line height of at least 1.5 (`Line Height Default`).
 
-#### **Options:**
+#### **Line height options:**
 
 | Name                  | Value |
 | --------------------- | ----- |
@@ -62,7 +62,7 @@ The style of a font affects its readability. Generally, serif typefaces are more
 
 **Avoid long sections of uppercase text.** Uppercase text has a serious negative effect on readability. Unless mandated by law, consider other type treatments for any uppercase text longer than just a few words.
 
-#### **Options:**
+#### **Font style options:**
 
 | Name                  | Value     |
 | --------------------- | --------- |
@@ -83,7 +83,7 @@ Letter-spacing is the spacing between individual letterforms in a block of text.
 
 **Text set in uppercase or small caps should use looser letter-spacing.** Uppercase text and small caps can appear too tight with normal letter-spacing and should use `Letter Spacing Loose` or `Letter Spacing Max`.
 
-#### **Options:**
+#### **Letter spacing options:**
 
 | Name                   | Value |
 | ---------------------- | ----- |
@@ -92,7 +92,7 @@ Letter-spacing is the spacing between individual letterforms in a block of text.
 | `Letter Spacing Loose` | 1     |
 | `Letter Spacing Max`   | 1.5   |
 
-## Font Families
+## Font families
 
 **iOS**
 
@@ -107,7 +107,7 @@ Letter-spacing is the spacing between individual letterforms in a block of text.
 - Aeonik
 - Arial
 
-#### **Options:**
+#### **Font family options:**
 
 | Name          | Value                                                                                                                                                   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
