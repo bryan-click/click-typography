@@ -89,12 +89,13 @@ Letter-spacing is the spacing between individual letterforms in a block of text.
 
 #### **Letter spacing options:**
 
-| Name                   | Value |
-| ---------------------- | ----- |
-| `Letter Spacing Tight` | -1    |
-| `Letter Spacing None`  | 0     |
-| `Letter Spacing Loose` | 1     |
-| `Letter Spacing Max`   | 1.5   |
+| Name                    | Value |
+| ----------------------- | ----- |
+| `Letter Spacing xTight` | -1.5  |
+| `Letter Spacing Tight`  | -1    |
+| `Letter Spacing None`   | 0     |
+| `Letter Spacing Loose`  | 1     |
+| `Letter Spacing XLoose` | 1.5   |
 
 ## Font families
 
