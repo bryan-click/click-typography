@@ -110,7 +110,7 @@ Letter-spacing is the spacing between individual letterforms in a block of text.
 **Web and Print**
 
 - Aeonik
-- Arial
+- Helvetica
 
 #### **Font family options:**
 
